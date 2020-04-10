@@ -1,26 +1,26 @@
 [
-  {
-    "id": 0,
-    "name": "Telegram",
-    "link": "https://t.me/smakosh",
-    "icon": "/icons/telegram.svg"
-  },
-  {
-    "id": 1,
-    "name": "Github",
-    "link": "https://github.com/smakosh",
-    "icon": "/icons/github.svg"
-  },
-  {
-    "id": 2,
-    "name": "StackOverflow",
-    "link": "https://stackoverflow.com/users/story/7396786",
-    "icon": "/icons/stackoverflow.svg"
-  },
-  {
-    "id": 3,
-    "name": "Twitter",
-    "link": "https://twitter.com/smakosh",
-    "icon": "/icons/twitter.svg"
-  }
+	{
+		"id": 0,
+		"name": "LinkedIn",
+		"link": "https://linkedin.com/in/yanpgao",
+		"icon": "/icons/linkedin.svg"
+	},
+	{
+		"id": 1,
+		"name": "Github",
+		"link": "https://github.com/yangao85",
+		"icon": "/icons/github.svg"
+	},
+	{
+		"id": 2,
+		"name": "StackOverflow",
+		"link": "https://stackoverflow.com/users/13282478",
+		"icon": "/icons/stackoverflow.svg"
+	},
+	{
+		"id": 3,
+		"name": "Twitter",
+		"link": "https://twitter.com/gaomatt",
+		"icon": "/icons/twitter.svg"
+	}
 ]
